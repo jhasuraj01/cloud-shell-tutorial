@@ -1,4 +1,4 @@
-# cloud-shell-tutorial
+# Cloud Shell Tutorial
 
 This is my hello world program for Cloud Shell Tutorial
 
